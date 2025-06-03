@@ -42,7 +42,7 @@
 
 ### 🧠 Featured Projects
 
-#### 🧾 [SwiftPay](https://inquisitive-cajeta-a0cc93.netlify.app/)
+#### 🧾 [SwiftPay]
 > 🏦 QR-based payments, wallet recharges, and utility bills — powered by Stripe & Node.js  
 > ⚙ Full-stack + role-based authentication + live analytics  
 > 📈 Secure, fast, scalable — built with a roadmap to serve 15+ states in India
@@ -51,7 +51,7 @@
 > 🤖 Responsive AI chatbot frontend using OpenAI's API  
 > 💬 Clean UX, optimized load time, and performance-first UI
 
-#### 🌐 [Portfolio Website](https://moonlit-froyo-94c813.netlify.app/)
+#### 🌐 [Portfolio Website](https://inquisitive-cajeta-a0cc93.netlify.app/)
 > ✨ Personal portfolio site with 3D visuals and animations  
 > 📱 Mobile-first design + 100/100 Lighthouse score  
 > 📨 Email.js-powered real-time contact form
